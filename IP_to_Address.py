@@ -4,6 +4,8 @@
 # 2015-11-06
 
 '''
+
+Python:2.7.* ,GeoIP: 1.3.2.tar.gz
 Install instructions
 --- Install from source
 1. download GeoIP-version.tar.gz from https://pypi.python.org/pypi/GeoIP/
